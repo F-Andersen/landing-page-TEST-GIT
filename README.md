@@ -4,8 +4,9 @@ Hello, as you can see. This code is for testing purposes only. It is only in the
 
 RU Привет, как видите. Этот код предназначен только для тестирования. Он находится только в процессе написания и служит резервной копией будущего проекта.
  
- 1 2 3
+ 1 2 3 4 
  
+
 
 git checkout перход на ветку 
 git branch создание вети 
